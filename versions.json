@@ -1,8 +1,8 @@
 {
-  "IronQuestie": "1.0.7",
-  "MissionRoller": "1.0.0",
-  "DungeonMap": "1.0.0",
-  "ItemFinder": "1.0.0",
-  "DamageMeter": "1.0.0",
-  "GridNavigator": "1.0.0"
+  "IronQuestie":    { "version": "1.0.7", "url": "https://github.com/MalishadeAO/ironquestie-releases/releases/download/1.0.7/IronQuestie.zip" },
+  "Mission Roller": { "version": "1.0.0", "url": "https://github.com/MalishadeAO/malis-mission-roller-2.0/releases/download/1.0.0/MissionRoller.zip" },
+  "Dungeon Map":    { "version": "1.0.0", "url": "https://github.com/MalishadeAO/malis-dungeon-map-2.0/releases/download/1.0.0/DungeonMap.zip" },
+  "Item Finder":    { "version": "1.0.0", "url": "https://github.com/MalishadeAO/malis-item-finder/releases/download/1.0.0/ItemFinder.zip" },
+  "Damage Meter":   { "version": "1.0.0", "url": "https://github.com/MalishadeAO/malis-damage-meter/releases/download/1.0.0/DamageMeter.zip" },
+  "Grid Navigator": { "version": "1.0.0", "url": "https://github.com/MalishadeAO/malis-grid-navigator/releases/download/1.0.0/GridNavigator.zip" }
 }
